@@ -1,0 +1,2 @@
+We are building a supervised text classification model to predict whether a given Amazon fine food review is positive or negative.
+We define review scores of 4 and 5 as positive and 1 and 2 as negative. Reviews with score 3 are excluded to form a clear sentiment classification task.
