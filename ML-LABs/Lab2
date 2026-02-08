@@ -1,0 +1,6 @@
+The dataset: https://www.kaggle.com/datasets/amroaskar/us-covid-19-and-human-mobility-2021
+Defining the ML problem: Regression
+The target variable is cases
+What is the model expected to learn or predict? The model is expected to predict the number of COVID-19 cases based on human mobility and related features in the dataset.
+Loading and Inspecting the Dataset in Python: https://drive.google.com/drive/folders/1t0KlMpoCZdaTn0oiv4m4mqZ8M_dMsgSs?usp=sharing
+Designing the Methodology Diagram: https://drive.google.com/drive/folders/1t0KlMpoCZdaTn0oiv4m4mqZ8M_dMsgSs?usp=sharing
